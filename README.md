@@ -2,6 +2,8 @@
 
 I'm a developer of system at Think4, owner at HTML Brasil, and I've been working in tech since 2005. I'm from Brazil.
 
+Developer with a passion for learning new technologies and concepts, working with a well-defined focus and priorities, and evolving every day!
+
 [![Linkedin: ricverissimo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricverissimo/)](https://www.linkedin.com/in/ricverissimo/) [![Hyperlink: think4](https://img.shields.io/badge/-%F0%9F%94%97%20Think4-fdd600?style=flat-square&logo=hyperlink&link=https://www.think4.com.br)](https://www.think4.com.br) [![Hyperlink: htmlbrasil](https://img.shields.io/badge/-%F0%9F%94%97%20HTML%20Brasil-039919?style=flat-square&logo=hyperlink&link=https://www.htmlbrasil.com.br)](https://www.htmlbrasil.com.br)
 
 These are some of the technologies and tools that I work with:
